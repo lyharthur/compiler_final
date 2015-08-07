@@ -1,0 +1,5 @@
+%42 = load i32* %a
+%43 = sitofp i32 %42 to double
+%44 = fadd double 1.000000e+00, %43
+%45 = fptosi double %44 to i32
+store i32 %45, i32* %a

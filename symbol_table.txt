@@ -1,0 +1,10 @@
+scope     symbol    type      array     function  
+0         x         int       false     false     
+0         SS        int       true      false     
+0         main      int       false     true      
+1         a         int       false     false     
+1         b         int       false     false     
+1         c         double    false     false     
+1         d         double    false     false     
+1         e         double    true      false     
+1         f         int       true      false     
